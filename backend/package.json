@@ -1,0 +1,14 @@
+{
+  "name": "shopaying-backend",
+  "version": "1.0.0",
+  "description": "React and Node-Express Shopping Cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
